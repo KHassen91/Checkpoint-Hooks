@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Checkpoint-Hooks/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/Checkpoint-Hooks/static/js/main.7e8fa5eb.chunk.js",
+    "main.js.map": "/Checkpoint-Hooks/static/js/main.7e8fa5eb.chunk.js.map",
+    "runtime-main.js": "/Checkpoint-Hooks/static/js/runtime-main.d9740ad4.js",
+    "runtime-main.js.map": "/Checkpoint-Hooks/static/js/runtime-main.d9740ad4.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/Checkpoint-Hooks/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.98a3de24.chunk.js": "/Checkpoint-Hooks/static/js/2.98a3de24.chunk.js",
+    "static/js/2.98a3de24.chunk.js.map": "/Checkpoint-Hooks/static/js/2.98a3de24.chunk.js.map",
+    "static/js/3.8bba013c.chunk.js": "/Checkpoint-Hooks/static/js/3.8bba013c.chunk.js",
+    "static/js/3.8bba013c.chunk.js.map": "/Checkpoint-Hooks/static/js/3.8bba013c.chunk.js.map",
+    "index.html": "/Checkpoint-Hooks/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/Checkpoint-Hooks/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/Checkpoint-Hooks/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.98a3de24.chunk.js.LICENSE.txt": "/Checkpoint-Hooks/static/js/2.98a3de24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9740ad4.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.98a3de24.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.7e8fa5eb.chunk.js"
+  ]
+}
